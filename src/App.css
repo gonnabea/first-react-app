@@ -1,3 +1,10 @@
 body {
-    background-color: greenyellow;
+    background-color: #F8F8FA;
+    margin: 10%;
+}
+
+.movies {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap:20vh;
 }
