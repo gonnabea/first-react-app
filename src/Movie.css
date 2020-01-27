@@ -28,6 +28,7 @@
 
 .movie__title {
     color: white;
+    font-size: 150%;
 }
 
 .movie__summary {
